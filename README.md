@@ -1,2 +1,2 @@
-# Basic-SQL-Training
-Basic Oracle SQL Training for work purposes
+# Basic Oracle SQL Training
+Basic Oracle SQL Training for work/recruitment purposes
