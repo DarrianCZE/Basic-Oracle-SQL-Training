@@ -1,0 +1,1 @@
+Show me a list of orders where customer's address does NOT contain the following string: "U "

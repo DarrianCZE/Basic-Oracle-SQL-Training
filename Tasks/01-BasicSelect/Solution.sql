@@ -1,0 +1,3 @@
+SELECT * 
+FROM CUSTOMERS 
+WHERE ADDRESS_REGION = 'Hlavní město Praha';

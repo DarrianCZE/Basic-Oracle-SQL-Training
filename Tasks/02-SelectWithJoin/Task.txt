@@ -1,0 +1,4 @@
+Create a data report of Orders from Praha in a following format: 
+Order ID, Manufacturer, Item Name, Customer First Name, Customer Last Name, Address District, Address Region, Price in CZK
+
+which contains orders with a price of 10000 CZK or less
