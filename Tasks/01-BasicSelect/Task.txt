@@ -1,1 +1,1 @@
-Show me a list of customers from Hlavní město Praha
+Show me a list of customers from "Hlavní město Praha"

@@ -1,0 +1,1 @@
+Create a data report containing the number of orders per address_region
